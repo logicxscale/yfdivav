@@ -4,6 +4,7 @@ Aplikasi Streamlit sederhana untuk mengambil data dividen dan grafik harga saham
 
 ---
 ![Screenshot](https://github.com/logicxscale/yfdivav/blob/main/screenshot.png?raw=true)
+[https://yfdivav.streamlit.app/](https://yfdivav.streamlit.app/)
 ---
 
 ## 🚀 Fitur
