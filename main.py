@@ -98,7 +98,7 @@ def yf_data():
         with col2:
             if st.button("Informations (!)"):
                 informations()
-        period = st.text_input("", value="1y")
+        period = st.text_input("", value="max")
 
         st.subheader("History")
         st.line_chart(data.history(period)['Close'])
