@@ -174,5 +174,7 @@ def main():
     with col2:
         yf_data()
 
+    st.markdown("Made with ❤️ by [@bagusa4](https://github.com/bagusa4)")
+
 if __name__ == "__main__": 
     main()
