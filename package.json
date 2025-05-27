@@ -1,0 +1,13 @@
+{
+  "name": "idx-data-downloader",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Script Puppeteer untuk download data saham IDX",
+  "main": "download_idx.js",
+  "scripts": {
+    "download": "node download_idx.js"
+  },
+  "dependencies": {
+    "puppeteer": "^24.9.0"
+  }
+}
